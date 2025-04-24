@@ -1,0 +1,16 @@
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Otros archivos temporales
+*.log
+*.tmp
+*.bak
+*.cache
+*.db
